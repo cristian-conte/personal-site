@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://cristianconte.com/sitemap.xml
+Host: https://cristianconte.com
