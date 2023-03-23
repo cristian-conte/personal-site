@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2018-07-14'
+title: 'Consultant - Cloud DevOps'
+company: 'CGI'
+location: 'Toronto, ON'
+range: 'May 2018 - October 2020'
+url: 'https://www.cgi.com/en'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
